@@ -28,3 +28,6 @@ The modify operation is implemented using FileWriter in append mode. By passing 
 
 Exception handling plays a crucial role in file handling. The program uses IOException to handle errors such as missing files, permission issues, or read/write failures. This prevents the program from crashing and ensures smooth execution.
 
+# Output:
+
+<img width="1038" height="730" alt="Image" src="https://github.com/user-attachments/assets/de793a20-01d3-4c76-8043-eee5a7686f25" />
